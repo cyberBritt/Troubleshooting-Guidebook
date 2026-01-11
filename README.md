@@ -5,8 +5,8 @@
 
 ---
 
-## 📄 View the Guidebook
-👉 **[Click here to open the full Troubleshooting Guidebook (PDF)](Tech-Support-Essentials.pdf)**
+## 📄 Get the Guidebook
+👉 **Download / Access the full guidebook on Gumroad** https://brittanybrinson.gumroad.com/l/tech-support-essentials
 
 ---
 
