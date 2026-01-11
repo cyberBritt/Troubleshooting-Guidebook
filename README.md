@@ -6,7 +6,7 @@
 ---
 
 ## 📄 View the Guidebook
-👉 **[Click here to open the full Troubleshooting Guidebook (PDF)](A+_Troubleshoot_Guide.pdf)**
+👉 **[Click here to open the full Troubleshooting Guidebook (PDF)](Tech-Support-Essentials.pdf)**
 
 ---
 
