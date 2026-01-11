@@ -44,6 +44,13 @@ This guidebook is designed for:
 
 ---
 
+## 📂 Repository Copy
+A reference co9py ofthe guidebook PDF is included in this repository for portfolio and archival purposes. 
+
+This repository is intended to demonstrate documentation structure, technical communication, and project presentation. The official published version his distributed via Gumroad.
+
+---
+
 ## 🚀 Why This Project Matters
 This project demonstrates:
 - Practical IT problem-solving skills  
@@ -59,6 +66,14 @@ Planned improvements include:
 - Additional operating system coverage (Linux / macOS)  
 - Interactive or web-based versions  
 - Versioned updates (v2.0, v3.0, etc.)
+
+---
+
+## 📌 Publication Status
+- **Status:** Independently published
+- **Platform:** Gumroad
+- **Version:** v1.0
+- **Year:** 2026
 
 ---
 
