@@ -11,7 +11,7 @@
 ---
 
 ## 📌 Project Overview
-This project is a **beginner-friendly IT troubleshooting guidebook** created as a practical reference for entry-level IT support professionals and CompTIA A+ students.
+This project is a 45-page **beginner-friendly IT troubleshooting guidebook** created as a practical reference for entry-level IT support professionals and students.
 
 The guide simplifies traditional troubleshooting methodologies into a **clear, modern, and approachable format** while remaining aligned with industry best practices.
 
