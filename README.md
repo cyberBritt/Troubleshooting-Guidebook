@@ -1,7 +1,7 @@
-# 📘 Tech Support Essentials: A Beginner's Troubleshooting Guidebook for Windows Systems
+# 📘 Tech Support Essentials: A Troubleshooting Guide for Windows
 
 **Author:** Brittany Brinson
-**Focus:** CompTIA A+ | Windows Troubleshooting | Beginner-Friendly IT Support
+**Focus:** Windows Troubleshooting | Beginner-Friendly IT Support
 
 ---
 
